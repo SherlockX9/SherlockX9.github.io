@@ -1,0 +1,20 @@
+{
+  "name": "portfoliosite_edition2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherlockX9/portfoliosite_edition2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SherlockX9/portfoliosite_edition2/issues"
+  },
+  "homepage": "https://github.com/SherlockX9/portfoliosite_edition2#readme"
+}
