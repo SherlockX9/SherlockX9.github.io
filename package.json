@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SherlockX9/portfoliosite_edition2/issues"
   },
-  "homepage": "https://github.com/SherlockX9/portfoliosite_edition2#readme"
+  "homepage": "https://github.com/SherlockX9/portfoliosite_edition2#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
 }
