@@ -7,7 +7,12 @@ module.exports = {
     extend: {
         backgroundImage:{
           'image1': "url('../img/landimage.jpg')",
-        }
+        },
+        fontFamily:{
+          'ralewind':['Raleway'],
+          'overpass':['Overpass'],
+          'roboto':['Roboto'],
+        },
     },
   },
   plugins: [],
