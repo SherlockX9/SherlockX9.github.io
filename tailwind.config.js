@@ -12,6 +12,7 @@ module.exports = {
           'ralewind':['Raleway'],
           'overpass':['Overpass'],
           'roboto':['Roboto'],
+          'balsamic':['Kanit'],
         },
     },
   },
