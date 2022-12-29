@@ -1176,6 +1176,22 @@ video {
     padding-top: 2.5rem;
   }
 
+  .md\:pb-6{
+    padding-bottom: 1.5rem;
+  }
+
+  .md\:pt-16{
+    padding-top: 4rem;
+  }
+
+  .md\:pb-3{
+    padding-bottom: 0.75rem;
+  }
+
+  .md\:pb-0{
+    padding-bottom: 0px;
+  }
+
   .md\:text-3xl{
     font-size: 1.875rem;
     line-height: 2.25rem;
