@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Overpass&family=Raleway&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Ubuntu:wght@300&family=Work+Sans&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
